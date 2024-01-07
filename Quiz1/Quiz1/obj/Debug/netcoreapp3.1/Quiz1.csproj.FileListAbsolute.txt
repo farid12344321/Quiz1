@@ -1,0 +1,14 @@
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.exe
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.deps.json
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.runtimeconfig.json
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.runtimeconfig.dev.json
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.dll
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.pdb
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.csproj.AssemblyReference.cache
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.AssemblyInfoInputs.cache
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.AssemblyInfo.cs
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.csproj.CoreCompileInputs.cache
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.dll
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.pdb
+C:\Users\faridrab\Desktop\Quiz1\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.genruntimeconfig.cache
