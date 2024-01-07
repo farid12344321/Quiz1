@@ -1,0 +1,3 @@
+1. !=, && , || 
+2. void
+3. eyni adda Method ama ferqli parametirler, method overloadig adlanir
